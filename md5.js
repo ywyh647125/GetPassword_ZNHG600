@@ -300,7 +300,7 @@ function getPassword()
     var result = hex_md5(name);
     if (result=="8f9afd98ed042789a1a0821f806dfb23")
     {
-      console.log(result);
+      console.log(name);
       break;
     }
   }
